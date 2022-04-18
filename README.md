@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TennaThePhantom
 - 👀 I’m interested in being a front-end software engineer
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Html, Css, and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
